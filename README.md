@@ -6,6 +6,6 @@
 - 👯 Estagio concluido no SeuBoné utilizando Python
 - 🤔 Estudando Python, Django e Django Rest
 - 💬 Desenvolvendo projetos pessoais em Python/Django
-- 📫 Contate-me através do E-mail: paulloholiveira77o@gmail.com
+- 📫 Contate-me através do E-mail: paulloholiveira77@gmail.com
 
 
