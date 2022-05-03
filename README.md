@@ -5,7 +5,7 @@
 - 🌱 Estagio na Gerência de TI pelo SENAC (atualmente)
 - 👯 Estagio concluido no SeuBoné utilizando Python
 - 🤔 Estudando Python, Django e Django Rest
-- 💬 Desenvolvendo projetos pessoas em Python/Django
+- 💬 Desenvolvendo projetos pessoais em Python/Django
 - 📫 Contate-me através do E-mail: paulloholiveira77o@gmail.com
 
 
