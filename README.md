@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou no 5° período da graduação em ADS na UNP.
 - 🌱 Estágio na Gerência de TI pelo SENAC (atualmente)
 - 👯 Estágio concluido no SeuBoné utilizando Python
-- 🤔 Estudando Python, Django e Django Rest
+- 🤔 Estudando Python (RPA, IA, Automações)
 - 💬 Desenvolvendo projetos pessoais em Python/Django
 - 📫 Contate-me através do E-mail: paulloholiveira77@gmail.com
 
